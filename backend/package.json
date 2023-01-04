@@ -11,13 +11,16 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/strapi": "4.5.4",
-    "@strapi/plugin-users-permissions": "4.5.4",
+    "@_sh/strapi-plugin-ckeditor": "^1.1.2",
+    "@strapi/plugin-graphql": "^4.5.5",
     "@strapi/plugin-i18n": "4.5.4",
-    "pg": "8.6.0"
+    "@strapi/plugin-users-permissions": "4.5.4",
+    "@strapi/strapi": "4.5.4",
+    "pg": "8.6.0",
+    "strapi-provider-upload-cloudinary": "^3.6.11"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Lukáš Franc"
   },
   "strapi": {
     "uuid": "475d4568-78cc-4bd0-8bba-5c4f4e1aa346"
