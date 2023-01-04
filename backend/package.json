@@ -12,18 +12,18 @@
   "devDependencies": {},
   "dependencies": {
     "@_sh/strapi-plugin-ckeditor": "^1.1.2",
-    "@strapi/plugin-graphql": "^4.5.4",
-    "@strapi/plugin-i18n": "4.5.4",
-    "@strapi/plugin-users-permissions": "4.5.4",
-    "@strapi/strapi": "4.5.4",
+    "@strapi/plugin-graphql": "^4.5.5",
+    "@strapi/plugin-i18n": "4.5.5",
+    "@strapi/plugin-users-permissions": "4.5.5",
+    "@strapi/strapi": "4.5.5",
     "pg": "8.6.0",
     "strapi-provider-upload-cloudinary": "^3.6.11"
   },
   "author": {
-    "name": "Lukáš Franc"
+    "name": "Lkáš Franc"
   },
   "strapi": {
-    "uuid": "475d4568-78cc-4bd0-8bba-5c4f4e1aa346"
+    "uuid": "c07c5930-34d0-408e-948d-a7c1a91170d8"
   },
   "engines": {
     "node": ">=14.19.1 <=18.x.x",
