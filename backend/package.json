@@ -19,6 +19,9 @@
     "pg": "8.6.0",
     "strapi-provider-upload-cloudinary": "^3.6.11"
   },
+  "resolutions": {
+    "graphql": "^16.6.0"
+  },
   "author": {
     "name": "Lkáš Franc"
   },
