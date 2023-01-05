@@ -1,7 +1,7 @@
 async function fetchAPI(query, { variables } = {}) {
     const res = await fetch(
         `${
-            process.env.API_URL || 'https://karate-klub-klatovy-production.up.railway.app/'
+            process.env.API_URL || 'https://karate-klub-klatovy-production.up.railway.app'
         }/graphql`,
         {
             method: 'POST',
