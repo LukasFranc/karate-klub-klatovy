@@ -1,6 +1,3 @@
-import Link from 'next/link'
-import Image from "next/image";
-import Typewriter from 'typewriter-effect'
 
 function Hero({homepage}) {
 
