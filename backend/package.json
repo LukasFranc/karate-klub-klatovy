@@ -15,9 +15,9 @@
     "@strapi/plugin-graphql": "^4.5.5",
     "@strapi/plugin-i18n": "4.5.5",
     "@strapi/plugin-users-permissions": "4.5.5",
+    "@strapi/provider-upload-cloudinary": "^4.5.5",
     "@strapi/strapi": "4.5.5",
-    "pg": "8.6.0",
-    "strapi-provider-upload-cloudinary": "^3.6.11"
+    "pg": "8.6.0"
   },
   "resolutions": {
     "graphql": "^16.6.0"
