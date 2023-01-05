@@ -7,7 +7,6 @@ module.exports = [
         useDefaults: true,
         directives: {
           'connect-src': ["'self'", 'https:'],
-          'script-src': ["'self'", "'unsafe-inline'", 'res.cloudinary.com'],
           'img-src': ["'self'", 'data:', 'blob:', 'res.cloudinary.com'],
           'media-src': ["'self'", 'data:', 'blob:', 'res.cloudinary.com'],
           upgradeInsecureRequests: null,
@@ -15,7 +14,6 @@ module.exports = [
       },
     },
   },
-  'strapi::security',
   'strapi::cors',
   'strapi::poweredBy',
   'strapi::logger',
